@@ -1,0 +1,5 @@
+La función delay es una función de Arduino que hace que el procesador espere y no permita que se realice ninguna acción durante el tiempo argumentado. Generalmente se lo marca en milisegundos, aunque existen otras función para utilizar otras medidas de tiempo.
+delay() está basado en el uso de timers, el procesador espera a que un timer le notifique su desbordamiento.
+
+
+Biblografía: https://hetpro-store.com/TUTORIALES/arduino-delay/#:~:text=En%20Arduino%20Delay%20es%20una,es%20la%20espera%20en%20milisegundos.
